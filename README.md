@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Sreejavastar.io)
+[![MasterHead](https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966)](https://Sreejavastar.io)
 <h1 style="text-shadow: 1px 1px 2px black, 0 0 25px rgb(118, 118, 149), 0 0 5px rgb(41, 195, 234);" align="center" style="@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap'); font-family:'Handlee', cursive; font-weight:lighter;">Namaste🙏,I'm Sreeja Ghosh</h1>
 <h3 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif font-weight:100">A passionate full-stack developer and Deep-Learning Ethusiast from India</h3>
 <img align="right" width="400" src="https://static.wixstatic.com/media/ab056a_a8cfa7317713482dbf3047c04719a41c~mv2.gif" alt="Coding">
