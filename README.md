@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [3D-Deep Learning on Medical Images](https://github.com/Sreejavastar/3D-Deep-Learning-on-Medical-Images)
 
-- 🌱 I’m currently learning **MongDB**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **ABOVE MENTIONED!!**
 
