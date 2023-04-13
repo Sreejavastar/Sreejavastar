@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [3D-Deep Learning on Medical Images](https://github.com/Sreejavastar/3D-Deep-Learning-on-Medical-Images)
 
+- 👩‍💼My portfolio website link: https://sreeja-ghosh-portfolio-website.netlify.app/ 
+
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **ABOVE MENTIONED!!**
