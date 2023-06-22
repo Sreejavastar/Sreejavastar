@@ -1,11 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966)](https://Sreejavastar.io)
+[![MasterHead](https://camo.githubusercontent.com/cceb98265f0226a790be96288cd9753481531c3908c6ca4e636f42f258c7f350/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f3871697963626678766d317730726469376565332e676966)
 
 
 # 🏄‍♂️ Sreeja Ghosh
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -23,7 +23,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 <!-- <img align="right" width="400" src="https://static.wixstatic.com/media/ab056a_a8cfa7317713482dbf3047c04719a41c~mv2.gif" alt="Coding"> -->
-<img align="right" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" style="max-width: 100%; display: inline-block; border-radius: 48%; box-shadow: 1px 1px 2px palegoldenrod; padding-left: 22px;" alt="coding-woman">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" style="max-width: 100%; display: inline-block; border-radius: 48%; box-shadow: 1px 1px 2px palegoldenrod; padding-left: 22px;" alt="coding-woman">
 
 <p align="left"> <a href="https://twitter.com/bonjour_natur" target="blank"><img src="https://img.shields.io/twitter/follow/bonjour_natur?logo=twitter&style=for-the-badge" alt="bonjour_natur" /></a> </p>
 
