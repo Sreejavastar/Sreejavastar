@@ -22,8 +22,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-<!-- <img align="right" width="400" src="https://static.wixstatic.com/media/ab056a_a8cfa7317713482dbf3047c04719a41c~mv2.gif" alt="Coding"> -->
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" style="max-width: 100%; display: inline-block; border-radius: 48%; box-shadow: 1px 1px 2px palegoldenrod; padding-left: 22px;" alt="coding-woman">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Coding"> 
+
 
 <p align="left"> <a href="https://twitter.com/bonjour_natur" target="blank"><img src="https://img.shields.io/twitter/follow/bonjour_natur?logo=twitter&style=for-the-badge" alt="bonjour_natur" /></a> </p>
 
